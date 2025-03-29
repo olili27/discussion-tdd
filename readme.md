@@ -7,3 +7,4 @@
     - git push -u origin branch-name(master/main) -> this helps you use just `git push` whenever you are pushing
 
 - git pull origin branch-name
+juts testing
