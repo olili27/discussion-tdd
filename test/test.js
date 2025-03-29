@@ -19,5 +19,9 @@ describe("multiplication function", () => {
       assert.equal(multiply(2, 2), 4);
     //   assert.strictEqual(multiply(2, 2), 4);
     });
+
+    it("it should multiply 3 by 3 and return 9", () => {
+      assert.equal(multiply(3, 3), 9);
+    });
 });
 
